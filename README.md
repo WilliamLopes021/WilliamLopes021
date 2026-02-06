@@ -1,16 +1,54 @@
-## Hi there 👋
+# 🖥️ Olá, meu nome é Gabriel William
 
-<!--
-**WilliamLopes021/WilliamLopes021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Fullstack.  
+Apaixonado por tecnologia e resolver problemas. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 💻 Atuo principalmente com: JavaScript/TypeScript, NodeJs, Express, React, React Native
+- 🎯 Foco atual: Conseguir entrar no mercado como desenvolvedor
+- 🧬 Técnico em Análise e Desenvolvimento de Sistemas e Cursando ADS na Fatec de São Paulo
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Linguagens**
+- JavaScript, TypeScript, Python, C#
+
+**Banco de Dados**
+- PostgreSQL, MongoDB, MySQL, MariaDB
+
+**Outros**
+- Git, Docker
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🔹 SIMULAI
+Projeto feito como TCC do curso técnico de desenvolvimento de sistemas.
+🔗 Repositório: https://github.com/WilliamLopes021/API_Simulai
+🧰 Stack: React, React Native, Python, FastApi, NodeJs, Express
+
+### 🔹 MusicAPI
+Uma API feita com express feita com o intuito de aplicar boas práticas de programação  
+🔗 Repositório: https://github.com/WilliamLopes021/MusicAPI
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/WilliamLopes021
+- LinkedIn: https://www.linkedin.com/in/gabriel-william-lopes-3619943a1/
+- Email: gabrielwilliam234@gmail.com
+
