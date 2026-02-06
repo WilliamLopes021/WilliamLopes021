@@ -38,14 +38,6 @@ Uma API feita com express feita com o intuito de aplicar boas práticas de progr
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact)
-
----
-
 ## 📫 Contato
 
 - GitHub: https://github.com/WilliamLopes021
