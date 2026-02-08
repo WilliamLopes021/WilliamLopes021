@@ -21,7 +21,7 @@ Apaixonado por tecnologia e resolver problemas.
 - PostgreSQL, MongoDB, MySQL, MariaDB
 
 **Outros**
-- Git, Docker
+- Git, Docker, POO
 
 ---
 
