@@ -33,7 +33,7 @@ Projeto feito como TCC do curso técnico de desenvolvimento de sistemas.
 🧰 Stack: React, React Native, Python, FastApi, NodeJs, Express
 
 ### 🔹 MusicAPI
-Uma API feita com express feita com o intuito de aplicar boas práticas de programação  
+Uma API de um blog desenvolvida com Express e Mongoose. Está em desenvolvimento.
 🔗 Repositório: https://github.com/WilliamLopes021/MusicAPI
 
 ---
