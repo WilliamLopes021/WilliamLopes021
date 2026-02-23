@@ -15,7 +15,7 @@ Apaixonado por tecnologia e resolver problemas.
 ## 🛠️ Tecnologias & Ferramentas
 
 **Linguagens**
-- JavaScript, TypeScript, Python, C#
+- JavaScript, TypeScript, Python, C#, PHP
 
 **Banco de Dados**
 - PostgreSQL, MongoDB, MySQL, MariaDB
