@@ -6,7 +6,7 @@ Desenvolvedor com foco no ecossistema JavaScript/TypeScript, atuando principalme
 
 ---
 
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/045d1867-7e21-4b7a-9521-f5c232333155" /> Stack Principal
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/045d1867-7e21-4b7a-9521-f5c232333155" /> Stack Principal
 
 - JavaScript
 - TypeScript
@@ -18,7 +18,7 @@ Desenvolvedor com foco no ecossistema JavaScript/TypeScript, atuando principalme
 
 ---
 
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8824f617-8400-49e2-b570-09bc7a022f66" /> Outras Tecnologias
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8824f617-8400-49e2-b570-09bc7a022f66" /> Outras Tecnologias
 
 - Python
 - PHP
@@ -39,8 +39,7 @@ Desenvolvedor com foco no ecossistema JavaScript/TypeScript, atuando principalme
 
 ---
 
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/43906a31-f3a4-4ee4-8522-730294db037f" />
- Projetos em Destaque
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/43906a31-f3a4-4ee4-8522-730294db037f" /> Projetos em Destaque
 
 ### 🔹 SIMULAI
 Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC).
