@@ -1,4 +1,4 @@
-# Gabriel William Lopes Rodrigues PT|BR
+# Gabriel William Lopes Rodrigues PT-BR
 
 ## Desenvolvedor Full Stack | JavaScript & TypeScript
 
@@ -67,7 +67,7 @@ Implementa estrutura REST, manipulação de dados e integração com MongoDB.
 
 ---
 
-# Gabriel William Lopes Rodrigues EN|US
+# Gabriel William Lopes Rodrigues EN-US
 
 ## Full Stack Developer | JavaScript & TypeScript
 
