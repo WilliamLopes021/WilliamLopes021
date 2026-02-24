@@ -1,41 +1,62 @@
-# 🖥️ Olá, meu nome é Gabriel William
+# Gabriel William Lopes Rodrigues
 
-Desenvolvedor Fullstack.  
-Apaixonado por tecnologia e resolver problemas. 
+## Desenvolvedor Full Stack | JavaScript & TypeScript
 
----
-
-## 🧠 Sobre mim
-
-- 💻 Atuo principalmente com: JavaScript/TypeScript, NodeJs, Express, React, React Native
-- 🎯 Foco atual: Conseguir entrar no mercado como desenvolvedor
-- 🧬 Técnico em Análise e Desenvolvimento de Sistemas e Cursando ADS na Fatec de São Paulo
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-**Linguagens**
-- JavaScript, TypeScript, Python, C#, PHP
-
-**Banco de Dados**
-- PostgreSQL, MongoDB, MySQL, MariaDB
-
-**Outros**
-- Git, Docker, POO
+Desenvolvedor com foco no ecossistema JavaScript/TypeScript, atuando principalmente no desenvolvimento de APIs e aplicações web e mobile. Experiência com arquitetura em camadas, integração com bancos de dados e construção de aplicações escaláveis.
 
 ---
 
-## 📌 Projetos em Destaque
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/045d1867-7e21-4b7a-9521-f5c232333155" /> Stack Principal
+
+- JavaScript
+- TypeScript
+- Node.js (Express, Fastify)
+- React
+- React Native
+- PostgreSQL
+- MongoDB
+
+---
+
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8824f617-8400-49e2-b570-09bc7a022f66" /> Outras Tecnologias
+
+- Python
+- PHP
+- C#
+- MySQL
+- MariaDB
+- Git
+- Docker
+- CI/CD
+- Programação Orientada a Objetos (POO)
+
+---
+
+## 🎓 Formação
+
+- Técnico em Desenvolvimento de Sistemas
+- Graduando em Análise e Desenvolvimento de Sistemas – FATEC São Paulo
+
+---
+
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/21802e87-dec4-49c0-8428-b1e3bb2112ea" /> Projetos em Destaque
 
 ### 🔹 SIMULAI
-Projeto feito como TCC do curso técnico de desenvolvimento de sistemas.
-🔗 Repositório: https://github.com/WilliamLopes021/API_Simulai
-🧰 Stack: React, React Native, Python, FastApi, NodeJs, Express
+Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC).
+
+Aplicação web e mobile com API própria, arquitetura organizada em camadas e integração com banco de dados.
+
+**Stack:** React, React Native, Node.js, Express, FastAPI, Python  
+
+🔗 Repositório:  
+---
 
 ### 🔹 MusicAPI
-Uma API de um blog desenvolvida com Express e Mongoose. Está em desenvolvimento.
-🔗 Repositório: https://github.com/WilliamLopes021/MusicAPI
+API para blog musical desenvolvida com Express e Mongoose.
 
+Implementa estrutura REST, manipulação de dados e integração com MongoDB.
+
+🔗 Repositório: 
 ---
 
 ## 📫 Contato
@@ -43,4 +64,3 @@ Uma API de um blog desenvolvida com Express e Mongoose. Está em desenvolvimento
 - GitHub: https://github.com/WilliamLopes021
 - LinkedIn: https://www.linkedin.com/in/gabriel-william-lopes-3619943a1/
 - Email: gabrielwilliam234@gmail.com
-
