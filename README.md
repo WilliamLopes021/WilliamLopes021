@@ -133,6 +133,6 @@ Implements REST structure, data manipulation and MongoDB integration.
 
 ## 📫 Contact
 
-- GitHub: <PRIVATE_URL>
-- LinkedIn: <PRIVATE_URL>
-- Email: <PRIVATE_EMAIL>
+- GitHub: https://github.com/WilliamLopes021
+- LinkedIn: https://www.linkedin.com/in/gabriel-william-lopes-3619943a1/
+- Email: gabrielwilliam234@gmail.com
