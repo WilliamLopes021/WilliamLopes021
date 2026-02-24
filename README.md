@@ -5,7 +5,7 @@
 Desenvolvedor com foco no ecossistema JavaScript/TypeScript, atuando principalmente no desenvolvimento de APIs e aplicações web e mobile. Experiência com arquitetura em camadas, integração com bancos de dados e construção de aplicações escaláveis.
 
 ---
-- [English Version](#Gabriel-william-lopes-rodrigues-EN|US)
+- [English Version](#Gabriel-william-lopes-rodrigues-EN-US)
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/045d1867-7e21-4b7a-9521-f5c232333155" /> Stack Principal
 
 - JavaScript
