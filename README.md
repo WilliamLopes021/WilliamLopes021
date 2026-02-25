@@ -46,7 +46,7 @@ Aplicação mobile com arquitetura organizada em camadas.
 
 **Stack:** React Native, Node.js, TypeScript, Expo, Zod
 
-🔗 Repositório: https://github.com/WilliamLopes021/API_Simulai
+🔗 Repositório: https://github.com/WilliamLopes021/TimerApp
 ---
 
 ### 🔹 MusicAPI
