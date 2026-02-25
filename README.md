@@ -41,12 +41,10 @@ Desenvolvedor com foco no ecossistema JavaScript/TypeScript, atuando principalme
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/43906a31-f3a4-4ee4-8522-730294db037f" /> Projetos em Destaque
 
-### 🔹 SIMULAI
-Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC).
+### 🔹 Timer App
+Aplicação mobile com arquitetura organizada em camadas.
 
-Aplicação web e mobile com API própria, arquitetura organizada em camadas e integração com banco de dados.
-
-**Stack:** React, React Native, Node.js, Express, FastAPI, Python  
+**Stack:** React Native, Node.js, TypeScript, Expo, Zod
 
 🔗 Repositório: https://github.com/WilliamLopes021/API_Simulai
 ---
@@ -110,14 +108,12 @@ Full Stack Developer focused on the JavaScript/TypeScript ecosystem, mainly buil
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/43906a31-f3a4-4ee4-8522-730294db037f" /> Featured Projects
 
-### 🔹 SIMULAI
-Final Course Project (Technical Degree).
+### 🔹 Timer App
 
-Web and mobile application with its own API, organized layered architecture and database integration.
+Mobile application with organized layered architecture.
 
-**Stack:** React, React Native, Node.js, Express, FastAPI, Python  
-🔗 Repository:  
-<PRIVATE_URL>
+**Stack:** React Native, Node.js, TypeScript, Expo, Zod
+🔗 Repository: https://github.com/WilliamLopes021/TimerApp
 
 ---
 
@@ -126,8 +122,7 @@ Music blog API built with Express and Mongoose.
 
 Implements REST structure, data manipulation and MongoDB integration.
 
-🔗 Repository:  
-<PRIVATE_URL>
+🔗 Repository: https://github.com/WilliamLopes021/MusicAPI
 
 ---
 
