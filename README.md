@@ -5,7 +5,6 @@
 Desenvolvedor com foco no ecossistema JavaScript/TypeScript, atuando principalmente no desenvolvimento de APIs e aplicações web e mobile. Experiência com arquitetura em camadas, integração com bancos de dados e construção de aplicações escaláveis.
 
 ---
-- [English Version](#Gabriel-william-lopes-rodrigues-EN-US)
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/045d1867-7e21-4b7a-9521-f5c232333155" /> Stack Principal
 
 - JavaScript
@@ -32,101 +31,33 @@ Desenvolvedor com foco no ecossistema JavaScript/TypeScript, atuando principalme
 
 ---
 
-## 🎓 Formação
+## 🎓 Cursos
 
-- Técnico em Desenvolvimento de Sistemas
-- Graduando em Análise e Desenvolvimento de Sistemas – FATEC São Paulo
-
+- Técnico em Desenvolvimento de Sistemas- ETEC
+- JavaScript e TypeScript do básico ao avançado - JS + TS- Udemy- +140 horas
+- React 19 e Next.js 15- Udemy- +80 horas
+ 
 ---
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/43906a31-f3a4-4ee4-8522-730294db037f" /> Projetos em Destaque
 
-### 🔹 Timer App
-Aplicação mobile com arquitetura organizada em camadas.
+### 🔹 Portfólio
+Aplicação feita com React e ThreeJs que com incorpora modelos 3D e oferece um design e experiência diferenciada para o usuário.
 
-**Stack:** React Native, Node.js, TypeScript, Expo, Zod
+**Stack:** TypeScript, React, NodeJs, TailwindCSS, React-three/fiber, React-three/drei
 
-🔗 Repositório: https://github.com/WilliamLopes021/TimerApp
+🔗 Repositório: [PortfolioV2](https://github.com/WilliamLopes021/PortfolioV2)
 ---
 
-### 🔹 MusicAPI
-API para blog musical desenvolvida com Express e Mongoose.
+### 🔹 LopezAgendas
+Um sistema de agendamento que auxilia na organização de pedidos/atendimentos.  O projeto ainda está em desenvolvimento, mas visa as boas práticas de programação e padrões de projeto utilizados no mercado.
 
-Implementa estrutura REST, manipulação de dados e integração com MongoDB.
+**Stack:** Express, PrismaORM, Zod, TypeScript, Jest
 
-🔗 Repositório: https://github.com/WilliamLopes021/MusicAPI
+🔗 Repositório: [LopezAgendas](https://github.com/WilliamLopes021/LopezAgendas)
 ---
 
 ## 📫 Contato
-
-- GitHub: https://github.com/WilliamLopes021
-- LinkedIn: https://www.linkedin.com/in/gabriel-william-lopes-3619943a1/
-- Email: gabrielwilliam234@gmail.com
-
----
-
-# Gabriel William Lopes Rodrigues EN-US
-
-## Full Stack Developer | JavaScript & TypeScript
-
-Full Stack Developer focused on the JavaScript/TypeScript ecosystem, mainly building APIs and web/mobile applications. Experience with layered architecture, database integration and scalable application development.
-
----
-
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/045d1867-7e21-4b7a-9521-f5c232333155" /> Core Stack
-
-- JavaScript
-- TypeScript
-- Node.js (Express, Fastify)
-- React
-- React Native
-- PostgreSQL
-- MongoDB
-
----
-
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/8824f617-8400-49e2-b570-09bc7a022f66" /> Additional Technologies
-
-- Python
-- PHP
-- C#
-- MySQL
-- MariaDB
-- Git
-- Docker
-- CI/CD
-- Object-Oriented Programming (OOP)
-
----
-
-## 🎓 Education
-
-- Technical Degree in Systems Development
-- Currently pursuing a Degree in Systems Analysis and Development – FATEC São Paulo
-
----
-
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/43906a31-f3a4-4ee4-8522-730294db037f" /> Featured Projects
-
-### 🔹 Timer App
-
-Mobile application with organized layered architecture.
-
-**Stack:** React Native, Node.js, TypeScript, Expo, Zod
-🔗 Repository: https://github.com/WilliamLopes021/TimerApp
-
----
-
-### 🔹 MusicAPI
-Music blog API built with Express and Mongoose.
-
-Implements REST structure, data manipulation and MongoDB integration.
-
-🔗 Repository: https://github.com/WilliamLopes021/MusicAPI
-
----
-
-## 📫 Contact
 
 - GitHub: https://github.com/WilliamLopes021
 - LinkedIn: https://www.linkedin.com/in/gabriel-william-lopes-3619943a1/
