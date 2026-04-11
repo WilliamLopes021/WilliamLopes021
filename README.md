@@ -34,8 +34,8 @@ Desenvolvedor com foco no ecossistema JavaScript/TypeScript, atuando principalme
 ## 🎓 Cursos
 
 - Técnico em Desenvolvimento de Sistemas- ETEC
-- JavaScript e TypeScript do básico ao avançado - JS + TS- Udemy- +140 horas
-- React 19 e Next.js 15- Udemy- +80 horas
+- JavaScript e TypeScript do básico ao avançado - JS + TS- Udemy (+140 horas)
+- React 19 e Next.js 15- Udemy (+80 horas)
  
 ---
 
