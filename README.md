@@ -46,15 +46,17 @@ Aplicação feita com React e ThreeJs que com incorpora modelos 3D e oferece um 
 
 **Stack:** TypeScript, React, NodeJs, TailwindCSS, React-three/fiber, React-three/drei
 
+🔗 Site: [PortfolioV2](https://portfolio-v2-wine-delta.vercel.app/)
 🔗 Repositório: [PortfolioV2](https://github.com/WilliamLopes021/PortfolioV2)
 ---
 
-### 🔹 LopezAgendas
-Um sistema de agendamento que auxilia na organização de pedidos/atendimentos.  O projeto ainda está em desenvolvimento, mas visa as boas práticas de programação e padrões de projeto utilizados no mercado.
+### 🔹 URBN-Store
+Um site desenvolvido com foco de aperfeiçoar boas práticas de programação, arquitetura de software, Gerenciamento de Estado e Testes automatizados.
 
-**Stack:** Express, PrismaORM, Zod, TypeScript, Jest
+**Stack:** TypeScript, Vite, Tailwindcss, responsive-design, SaaS
 
-🔗 Repositório: [LopezAgendas](https://github.com/WilliamLopes021/LopezAgendas)
+🔗 Site: [URBN-STORE](https://urbn-store-indol.vercel.app/)
+🔗 Repositório: [URBN](https://github.com/WilliamLopes021/URBN_STORE)
 ---
 
 ## 📫 Contato
